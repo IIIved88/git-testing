@@ -1,0 +1,23 @@
+    body{
+    font-family: 'Lobster', cursive;
+    font-size:small;
+    background-color: #00000;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 2px dotted black;
+    padding: 20px 20px 20px 20px;
+    }
+    p{color:red;font-family: 'Comfortaa', cursive;}
+    h1,h2{color: gray;}
+    h1{border-bottom: 5px solid black;font-size:300%;}
+    .block{
+      border-color:#991199;
+      border-width:5px;
+      border-style:solid;
+      background-color:#d8bfd8;
+      margin-right: 10%;
+      margin-left: 10%;
+      padding: 10px 10px 60px 10px;
+      background-image: url(img/ws.png);
+      ba
+          }
