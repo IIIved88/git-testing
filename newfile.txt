@@ -1,6 +1,6 @@
 Changes for git
 one more
 <<<<<<< HEAD
+<<<<<<< HEAD
 2001 integer
 2002 int
-
