@@ -1,4 +1,10 @@
 Changes for git
 one more
+<<<<<<< HEAD
 2001 integer
 2002 int
+=======
+5555
+6666
+7777
+>>>>>>> parent of 5d04546 (2001 integer)
