@@ -2,6 +2,10 @@ Changes for git
 one more
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 2001 integer
 2002 int
 2003 int
+=======
+2001 integer
+>>>>>>> parent of b7a1703 (2002 int)
